@@ -1,6 +1,8 @@
-![acc](https://github.com/niths7/accident-detection/assets/121955811/b0db48b0-e304-40b4-a947-5285431f6b0e)# accident-detection
+![acc](https://github.com/niths7/accident-detection/assets/121955811/b0db48b0-e304-40b4-a947-5285431f6b0e)
+
+# accident-detection
 This project implements an Accident Detection System using Convolutional Neural Networks (CNNs) and real-time video processing techniques. The system detects potential accidents in traffic scenarios, estimates their severity, and facilitates rapid response to mitigate risks
-![Uploading acc.gif…]()
+
 
 
 # Key Features:
