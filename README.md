@@ -14,6 +14,7 @@ User-friendly interfaces for video input selection, monitoring, and result visua
 Estimation of accident fatality based on impact severity and other factors.
 Integration with additional sensors such as LiDAR and radar for comprehensive situational awareness.
 Real-time traffic management capabilities for optimizing traffic flow and mitigating accident risks.
+![Uploading WhatsApp Image 2024-05-01 at 20.12.57_58085348.jpg…]()
 
 # Benefits:
 
