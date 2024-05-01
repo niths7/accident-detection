@@ -1,5 +1,7 @@
-# accident-detection
+![acc](https://github.com/niths7/accident-detection/assets/121955811/b0db48b0-e304-40b4-a947-5285431f6b0e)# accident-detection
 This project implements an Accident Detection System using Convolutional Neural Networks (CNNs) and real-time video processing techniques. The system detects potential accidents in traffic scenarios, estimates their severity, and facilitates rapid response to mitigate risks
+![Uploading acc.gif…]()
+
 
 # Key Features:
 
@@ -7,14 +9,14 @@ CNN-based model for accident detection trained on a dataset of traffic scenario 
 Real-time video processing application developed using OpenCV for on-the-fly accident detection.
 Integration with emergency services for automatic alerting and provision of accident details.
 Advanced sensor integration for enhanced detection accuracy and situational awareness.
-User-friendly interfaces for video input selection, monitoring, and result visualization.
+only interfaces for video input selection, monitoring, and result visualization.
 
 # Future Work:
 
 Estimation of accident fatality based on impact severity and other factors.
 Integration with additional sensors such as LiDAR and radar for comprehensive situational awareness.
 Real-time traffic management capabilities for optimizing traffic flow and mitigating accident risks.
-![Uploading WhatsApp Image 2024-05-01 at 20.12.57_58085348.jpg…]()
+
 
 # Benefits:
 
